@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mukhtar Sayyad
+# 👋 Hey, I'm Muktar Sayyad
 
 ### 🌱 Final Year B.Tech | Full Stack Web Developer
 
