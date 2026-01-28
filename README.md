@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mukhtar Sayyad  
+# 👋 Hi, I'm Muktar Sayyad  
 ### 🚀 Full Stack Web Developer | Final Year B.Tech (IT)
 
 📍 Pune, India  
