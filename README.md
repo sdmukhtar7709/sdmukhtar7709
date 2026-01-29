@@ -53,17 +53,24 @@ Currently seeking **internship / entry-level opportunities** where I can contrib
 > **These projects represent my strongest and most complete work.**  
 > Other repositories are for **practice and learning**.
 
-### 🔹 MultiAI Chat Studio
-🔗 https://github.com/sdmukhtar7709/MultiAI-Chat-Studio  
-- Multi-model AI chat platform  
-- Supports local LLMs via LM Studio  
-- Clean UI with scalable architecture  
-
 ### 🔹 Wanderlust – Airbnb Clone (Full Stack)
 🔗 https://github.com/sdmukhtar7709/Wanderlust-Airbnb-Clone-Full-Stack-Web-App  
 - Full-stack Airbnb-inspired application  
 - Authentication, listings, bookings  
-- Real-world project structure  
+- Real-world project structure
+
+### 🔹 MultiAI Chat Studio
+🔗 https://github.com/sdmukhtar7709/MultiAI-Chat-Studio  
+- Multi-model AI chat platform  
+- Supports local LLMs via LM Studio  
+- Clean UI with scalable architecture
+  
+### 🔹 EmployeeManagementAPI (.NET Core Web API)
+🔗 https://github.com/sdmukhtar7709/EmployeeManagementAPI
+- Built a beginner-friendly ASP.NET Core Web API exposing REST endpoints for employee management
+- Implemented controller-based APIs (GET, POST, DELETE) using an in-memory data store
+- Developed a simple static frontend UI (HTML, CSS, JavaScript) served via wwwroot to consume the API
+- Used Swagger UI for API testing and documentation, understanding end-to-end request–response flow
 
 ### 🔹 Food Order System
 🔗 https://github.com/sdmukhtar7709/food-order-system  
