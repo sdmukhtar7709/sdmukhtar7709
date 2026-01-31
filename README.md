@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muktar Sayyad  
-### 🚀 Full Stack Web Developer | Final Year B.Tech (IT)
+### 🚀 Full Stack Web Developer and  | Final Year B.Tech (IT)
 
 📍 Pune, India  
 🌐 Portfolio: https://sdmukhtar.me  
@@ -13,8 +13,11 @@ I am a **passionate Full Stack Web Developer** focused on building **real-world,
 
 - 🔹 Strong interest in **Backend APIs & Full Stack Systems**
 - 🔹 Experience with **REST APIs, authentication, and databases**
+- 🔹 Hands-on experience building **ASP.NET Core Web APIs** using RESTful architecture and Swagger
+- 🔹 Understanding of **API testing, validation, and backend reliability** using tools like Postman
 - 🔹 Hands-on with **AI-integrated applications**
 - 🔹 I value **clean code, system design, and continuous learning**
+
 
 Currently seeking **internship / entry-level opportunities** where I can contribute, learn fast, and grow as a software engineer.
 
