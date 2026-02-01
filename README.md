@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hello%20Everyone!&fontSize=48&fontColor=000000" />
 
-### 👋 I'm **Mukhtar Sayyad**
+### 👋 I'm **Muktar Sayyad**
 **Software Developer | Final Year B.Tech (IT)**
 
 I enjoy turning complex problems into **simple, scalable, and real-world solutions**.  
