@@ -4,7 +4,7 @@
 📍 Pune, India  
 🌐 Portfolio: https://sdmukhtar.me  
 💼 LinkedIn: https://www.linkedin.com/in/mukhtar-sayyed  
-📧 Email: mukhtar@example.com  
+📧 Email: muktarsayyad2003@gmail.com  
 
 ---
 
