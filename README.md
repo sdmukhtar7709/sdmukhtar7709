@@ -1,3 +1,40 @@
+<div align="center">
+
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hello%20Everyone!&fontSize=48&fontColor=000000" />
+
+### 👋 I'm **Mukhtar Sayyad**
+**Full Stack Web Developer | Final Year B.Tech (IT)**
+
+I enjoy turning complex problems into **simple, scalable, and real-world solutions**.  
+Always eager to **learn, build, and grow** 🚀
+
+---
+
+### 🧰 My Favorite Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,express,mongodb,mysql,git,github,postman,vscode" />
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Hi, I'm Muktar Sayyad  
 ### 🚀 Full Stack Web Developer and  | Final Year B.Tech (IT)
 
