@@ -22,7 +22,7 @@ Always eager to **learn, build, and grow** 🚀
 ---
 
 ## 👨‍💻 About Me
-I am a **passionate Full Stack Web Developer** focused on building **real-world, scalable, and production-ready applications**.
+I am a **passionate Full Stack Software Developer** focused on building **real-world, scalable, and production-ready applications**.
 
 - 🔹 Strong interest in **Backend APIs & Full Stack Systems**
 - 🔹 Experience with **REST APIs, authentication, and databases**
