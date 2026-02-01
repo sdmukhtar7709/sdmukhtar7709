@@ -13,7 +13,7 @@ Always eager to **learn, build, and grow** 🚀
 
 ### 🧰 My Favorite Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,express,mongodb,mysql,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=vscode,js,java,.NET,python,react,nodejs,express,mongodb,mysql,git,github,postman" />
 
 </div>
 
