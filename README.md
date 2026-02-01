@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hello%20Everyone!&fontSize=48&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Hello%20Everyone!&fontSize=48&fontColor=FFFFFF&color=0:0f2027,50:203a43,100:2c5364" />
+
 
 ### 👋 I'm **Muktar Sayyad**
 **Software Developer | Final Year B.Tech (IT)**
