@@ -5,7 +5,7 @@
 
 
 ### 👋 I'm **Muktar Sayyad**
-**Software Developer | Final Year B.Tech (IT)**
+**Software Developer | Final Year B.Tech (IT)  | Aspiring Software Rols**
 
 I enjoy turning complex problems into **simple, scalable, and real-world solutions**.  
 Always eager to **learn, build, and grow** 🚀
